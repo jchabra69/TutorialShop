@@ -1,6 +1,6 @@
 // src/app/app.routes.ts
 
 import { Routes } from '@angular/router';
-import routeConfig from './routes';  // Importamos las rutas desde routes.ts
+import routeConfig from './routes'; 
 
-export const routes: Routes = routeConfig;  // Exportamos la configuración de rutas
+export const routes: Routes = routeConfig; 
